@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.9",
   "notes": "Fixed invoice totals, faster inventory refresh.",
-  "url": "https://github.com/juneannex/ys-aution-house/releases/download/ys_version_1.0.2/YSAH-Inventory-Setup-1.0.6.exe",
+  "url": "https://github.com/juneannex/ys-aution-house/releases/download/ys_version_1.0.2/InventoryClient.exe",
   "mandatory": false
 }
