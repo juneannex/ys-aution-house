@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "notes": "Fixed invoice totals, faster inventory refresh.",
   "url": "https://raw.githubusercontent.com/youruser/yourepo/main/gui_client.py",
   "mandatory": false
