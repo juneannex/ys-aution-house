@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.2.0",
   "notes": "Fixed invoice totals, faster inventory refresh.",
   "url": "https://github.com/juneannex/ys-aution-house/releases/download/ys_version_1.0.2/InventoryClient.exe",
   "mandatory": false
