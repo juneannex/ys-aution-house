@@ -1,5 +1,5 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.8",
   "notes": "Fixed update parameters, progress bar and auto re-launch after updates.",
   "url": "https://github.com/juneannex/ys-aution-house/releases/download/ys_version_1.0.2/InventoryClient.exe",
   "mandatory": false
