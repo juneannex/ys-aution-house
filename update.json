@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
   "notes": "Fixed invoice totals, faster inventory refresh.",
-  "url": "https://raw.githubusercontent.com/youruser/yourepo/main/gui_client.py",
+  "url": "https://github.com/juneannex/ys-aution-house/releases/download/ys_version_1.0.1/YSAH-Inventory-Setup-1.0.1.exe",
   "mandatory": false
 }
