@@ -1,6 +1,6 @@
 {
   "version": "1.4.4",
-  "notes": "Updated manual and auto sticker printing parameters.",
+  "notes": "Updated and production ready fix receipt information.",
   "url": "https://github.com/juneannex/ys-aution-house/releases/download/ys_version_1.0.2/InventoryClient.exe",
   "mandatory": false
 }
